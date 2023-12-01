@@ -1,0 +1,1 @@
+# Parallelized-Genetic-Algorithms-for-Jigsaw-Puzzle-Solving
